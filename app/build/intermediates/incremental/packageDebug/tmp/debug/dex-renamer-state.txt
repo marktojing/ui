@@ -1,0 +1,4 @@
+#Wed Jun 24 10:31:10 CST 2020
+base.0=/Users/sunrain/Documents/work/test/android/ndk/uil/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
